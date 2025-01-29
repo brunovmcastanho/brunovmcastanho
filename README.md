@@ -48,5 +48,5 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunovmcastanho&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovmcastanho&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovmcastanho&layout=compact&theme=radical&langs_count=20" />
 </p>
