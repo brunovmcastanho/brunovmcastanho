@@ -3,10 +3,11 @@
 
 
 ## 🧑‍💻 **About Me**
-- 🎓 Studying **Electronic Engineering**.
-- 🔬 Researcher in **Embedded Systems and low-cost equipament**.
-- 🛠️ Working on **Spectrophotometers and Curve Tracers**.
--  ⚙️ Exploring **hardware design, firmware development, and AI applications**.
+- 🎓 **Electronic Engineer** (Class of 2026).
+- 💼 **R&D and Product Development** at **Autocoat**.
+- 🔬 Developing scientific and industrial equipment.
+- ⚙️ Exploring **hardware design, firmware development (STM32, ESP32)**.
+- 🎥 Sharing engineering content on my YouTube channel: **eng. bruno castanho**.
 
 
 ## 📫 **Contact**
